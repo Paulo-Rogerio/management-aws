@@ -64,7 +64,12 @@ Agora que as libs estão instaladas vamos consumir o projeto.
 
 #### 3.1) Help dos Parametros Suportados
 
-Ao executar o script **cloud.rb** um Helper é mostrado de como usar o script. No exemplo abaixo será listado as **EC2** localizada na região de **São Paulo**.
+Ao executar o script **cloud.rb** um Helper é mostrado de como usar o script. É apenas um exemplo 
+dos parâmetros suportados pelo scritp. Quando executado, ele sugere 2 ações:
+* Listar Instancias EC2
+* LIstar Security Group
+
+No exemplo abaixo, ele buscará os dados dos produtos que tenho hospedados na **Região de São Paulo**.
 
 ```rb
 ▶ruby cloud.rb 
