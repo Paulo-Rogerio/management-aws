@@ -10,13 +10,13 @@
 
 ## 1) Qual Propósito do Projeto
 
-O objetivo do projeto é facilitar a vida do **Devops**, centralizando em uma única ferramenta informações de multiplas clouds. Essas informações são coletadas da própria API que a **Cloud Provider** disponibiliza.
+O objetivo do projeto é facilitar a vida do **Devops**, centralizando em uma única ferramenta informações de multiplas clouds. Os dados coletadas são obtidos através da própria **API** que a **Cloud Provider** disponibiliza, ou seja, a ferramenta apenas cuida de apresentar os dados e em forma de tabela.
 
 Atualmente o projeto suporta apenas a **Cloud AWS**, mas o projeto foi preparado para suportar multiplas clouds.
 
 ## 2) O que é necessário para rodar o projeto
 - AWS Cli
-- Gerenciador de Ruby (Rbenv | Rvm | Asdf | Compilar Ruby Desejado ( .ruby-version ))
+- Gerenciador de Ruby (Rbenv | Rvm | Asdf | Compilar Ruby Desejado ( Veja arquivo .ruby-version ))
 
 #### 2.1) AWS cli
 
