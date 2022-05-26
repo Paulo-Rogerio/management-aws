@@ -1,0 +1,14 @@
+GEM
+  specs:
+    json (2.6.2)
+    text-table (1.2.4)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  json
+  text-table
+
+BUNDLED WITH
+   2.3.14

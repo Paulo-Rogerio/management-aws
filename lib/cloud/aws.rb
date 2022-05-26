@@ -1,0 +1,8 @@
+require 'json'
+require 'text-table'
+require_relative 'aws/helper'
+require_relative 'aws/execute'
+require_relative 'aws/constantes'
+require_relative 'aws/aws_command'
+require_relative 'aws/aws_ec2_read_json'
+require_relative 'aws/aws_ec2_security_group_read_json'
