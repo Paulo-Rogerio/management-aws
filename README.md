@@ -21,10 +21,12 @@ Atualmente o projeto suporta apenas a **Cloud AWS**, mas o projeto foi preparado
 #### 2.1) AWS cli
 
 - AWS Cli 
+
 Será necessário pois ele será responsável por consumir a API da AWS. Caso não tenha instalado em sua máquina, basta seguir esses passos listados [AQUI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
 #### 2.2) Gerenciador de Versões de Ruby
 - Gerenciador de Ruby
+
 Aqui você tem a liberdade para usar o gerenciador que mais atende suas necessidades. Particularmente gosto e uso **rbenv**, mas isso não é relevante, o importante é ter o **Ruby** certo instalado na máquina.
 
 ```bash
