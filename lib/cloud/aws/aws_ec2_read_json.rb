@@ -3,7 +3,7 @@ module Cloud
     class Ec2
 
       def tag(tags=nil)
-        tags.map do |i|
+        tags.to_a.map do |i|
           i['Value'] 
         end
       end
